@@ -17,8 +17,8 @@ function Creations() {
       link: "https://github.com/Malathi-selvam/daily_routine_reminder",
     },
     {
-      title: "/Leave Management System",
-      img: "leavemanagementsystem.jpg",
+      title: "Leave Management System",
+      img: "/leavemanagementsystem.jpg",
       tech: "SpringBoot • Hibernate • HTML • Css • Mysql",
     },
   ];
