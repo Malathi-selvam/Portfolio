@@ -69,7 +69,7 @@ function Home() {
           </div>
         </div>
         <div className="home-image">
-          <img src="me.jpg" alt="Malathi" />
+          <img src="/me.jpg" alt="Malathi" />
         </div>
       </div>
     </Element>

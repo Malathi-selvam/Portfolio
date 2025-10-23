@@ -6,18 +6,18 @@ function Creations() {
   const projects = [
     {
       title: "🍽️ Online Food Shop Management",
-      img: "online-food-shop.jpg",
+      img: "/online-food-shop.jpg",
       tech: "Java • J2EE • MySQL",
       link: "https://github.com/Malathi-selvam/Java-Project",
     },
     {
       title: "⏰ Daily Routine Reminder",
-      img: "reminder.jpg",
+      img: "/reminder.jpg",
       tech: "React.js • EmailJS • REST API",
       link: "https://github.com/Malathi-selvam/daily_routine_reminder",
     },
     {
-      title: "Leave Management System",
+      title: "/Leave Management System",
       img: "leavemanagementsystem.jpg",
       tech: "SpringBoot • Hibernate • HTML • Css • Mysql",
     },
